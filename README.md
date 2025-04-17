@@ -25,7 +25,6 @@ Jeder Laborordner enthält:
 
 - Programmiersprache: Java
 - Entwicklungsumgebung: Eclipse IDE
-- Build-Tools: Maven/Gradle
 
 ## 📚 Themengebiete
 
